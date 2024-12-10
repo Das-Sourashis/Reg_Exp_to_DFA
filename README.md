@@ -103,8 +103,7 @@ The program will generate:
 - Network errors during graph generation will be reported if the API call fails
 
 ## Screenshot(s)
-
-_(Add any screenshots here to show the visual output)_
+![Screenshot_1](https://github.com/user-attachments/assets/47b171ae-a51d-4e08-b4c0-f7f6ca015af5)
 
 
 ## License
