@@ -1,0 +1,7 @@
+(a.b)*+c
+states	is_final	a	b	c
+S	Y	Q3	Q2	Q1
+Q0	Y	Q3	Q2	Q2
+Q1	Y	Q2	Q2	Q2
+Q2	N	Q2	Q2	Q2
+Q3	N	Q2	Q0	Q2
